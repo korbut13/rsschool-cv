@@ -67,3 +67,10 @@ Codewars
 
 
 *************************************************
+
+### **Languages**
+
+* Russian - native
+* English - pre-Intermediate
+* Polish - beginner
+
