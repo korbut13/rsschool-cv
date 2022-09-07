@@ -53,7 +53,7 @@ function solution(str, ending){
 
 *Right now I only have one unfinished project*
 
-[Travel-part2](https://korbut13.github.io/rsschool-cv/travel/)
+[Travel-part2](https://korbut13.github.io/rsschool-cv-stage0/travel/)
 
 
 **************************************************
